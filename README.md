@@ -14,3 +14,10 @@
 + Create a visual to show a breakdown of the different products and its overall volume in the consumer complaint category
 + Clean the text and remove unnecessary characters
 + Split the dataset into train, test and validation
+
+
+
+### Model and Prediction:
+
++ Deploy a Random Forest Classifier 
++ Use a Classification Report, Confusion Matrix and Accuracy Score
