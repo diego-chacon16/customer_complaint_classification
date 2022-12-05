@@ -20,4 +20,4 @@
 ### Model and Prediction:
 
 + Deploy a Random Forest Classifier 
-+ Use a Classification Report, Confusion Matrix and Accuracy Score
++ Use Classification Report, Confusion Matrix and Accuracy Score to measure the models performance
